@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+#divIzquierda{
+    width: 100%;
+    max-width: 1000%;
+    margin: auto;
+    overflow: hidden;
+    background-color: black;
+    color: blanchedalmond;
+    align-items: center;
+}
+canvas{
+    margin-top: 40px;
+    background-color: black;
+    align-self: center;
+}
+p{
+    text-align: center;
+}
